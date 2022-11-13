@@ -16,10 +16,3 @@
 
 ## 📌 참고 자료
 - 교재: [실전! 스프링5를 활용한 리액티브 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391591)
-
-</br>
-
-## 📋 Timeline
-| 날짜 | 진영 | 상우 |
-|--|--|--|
-
