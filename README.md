@@ -11,6 +11,7 @@
 | ---- | ---------------------------------------------- |
 | 상우 | [@highright96](https://github.com/highright96)|
 | 진영 | [@pjy1368](https://github.com/pjy1368) |
+| 재민 | [@youjmen][https://github.com/youjmen) |
 
 </br>
 
